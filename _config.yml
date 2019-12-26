@@ -36,11 +36,11 @@ closing-para: _Your detailed closing_
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/_username_
-  github: https://github.com/_username_
-  linkedin-square: https://linkedin.com/in/_username_
-  facebook-official: https://facebook.com/_username_
-  google-plus-square: https://plus.google.com/u/0/+_username_
+  twitter: http://qm.qq.com/cgi-bin/qm/qr?k=UbWtn3ks2HP0cWkffGZQzpXEIouemn5p
+  github: http://qm.qq.com/cgi-bin/qm/qr?k=UbWtn3ks2HP0cWkffGZQzpXEIouemn5p
+  linkedin-square: http://qm.qq.com/cgi-bin/qm/qr?k=UbWtn3ks2HP0cWkffGZQzpXEIouemn5p
+  facebook-official: http://qm.qq.com/cgi-bin/qm/qr?k=UbWtn3ks2HP0cWkffGZQzpXEIouemn5p
+  google-plus-square: http://qm.qq.com/cgi-bin/qm/qr?k=UbWtn3ks2HP0cWkffGZQzpXEIouemn5p
   email: /contact/ # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:
@@ -85,7 +85,7 @@ features-title: YYYYY
 # environment, I just put a subl.cmd file in my PATH that points to the full
 # path to Sublime's subl.exe.) Also, put your most common post extension.
 compose:
-  editor: subl
+  editor: AAA
   extension: md
 
 # choose where to put back and next links:
